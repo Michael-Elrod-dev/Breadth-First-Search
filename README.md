@@ -9,3 +9,6 @@ You are standing with a wolf, goat, and cabbage, next to a river, and you would 
 Water Jugs - 
 
 You are standing next to a river with a very content-looking wolf, a head of cabbage, and two water jugs, which have integer sizes A = 3 and B = 4. In order to boil the cabbage for your dinner, you would like to measure out exactly 5 units of water.
+
+**This code was written for educational purposes and should not be used for 
+efficiency**
