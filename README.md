@@ -25,12 +25,11 @@ The program `waterJugs.cpp` solves the Water Jugs problem.
 ```bash
 g++ -o wolfGoatCabbage wolfGoatCabbage.cpp
 g++ -o waterJugs waterJugs.cpp
+```
 
 2. Run the compiled programs:
 ```bash
-g++ -o wolfGoatCabbage wolfGoatCabbage.cpp
-g++ -o waterJugs waterJugs.cpp
 ./wolfGoatCabbage
 ./waterJugs
-
+```
 Both programs will output the steps required to solve their respective puzzles.
